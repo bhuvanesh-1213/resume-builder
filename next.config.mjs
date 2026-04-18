@@ -24,7 +24,7 @@ const nextConfig = {
   async redirects() {
     return [
       {
-        source: '/editor',
+        source: '/OWNER',
         destination: '/builder',
         permanent: true,
       },
